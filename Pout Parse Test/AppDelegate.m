@@ -21,8 +21,8 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    [Parse setApplicationId:@"1UFw3EM8ni3RKkI1TrD2WmboCIpxSaHepIu2CKoz"
-                  clientKey:@"nkqISkceWdvMexawp6Ph2tTqfBm6l4xpiNrgZJWM"];
+    [Parse setApplicationId:@""
+                  clientKey:@""];
     
     self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     self.rootVC = [[SampleViewController alloc] init];

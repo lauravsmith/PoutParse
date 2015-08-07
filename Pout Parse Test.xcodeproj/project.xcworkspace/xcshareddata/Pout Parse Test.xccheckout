@@ -10,31 +10,31 @@
 	<string>Pout Parse Test</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>2D0D6BECC2814F1C8BD4F30975D408430C78D6C2</key>
-		<string>https://bitbucket.org/laura_vsmith/android_app.git</string>
+		<key>A86B22973E52F50A02E3107136D041005DCDFC8C</key>
+		<string>https://github.com/lsmit87/PoutParse.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>Pout Parse Test/Pout Parse Test.xcodeproj</string>
+	<string>Pout Parse Test.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>2D0D6BECC2814F1C8BD4F30975D408430C78D6C2</key>
-		<string>../../..</string>
+		<key>A86B22973E52F50A02E3107136D041005DCDFC8C</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://bitbucket.org/laura_vsmith/android_app.git</string>
+	<string>https://github.com/lsmit87/PoutParse.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>2D0D6BECC2814F1C8BD4F30975D408430C78D6C2</string>
+	<string>A86B22973E52F50A02E3107136D041005DCDFC8C</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>2D0D6BECC2814F1C8BD4F30975D408430C78D6C2</string>
+			<string>A86B22973E52F50A02E3107136D041005DCDFC8C</string>
 			<key>IDESourceControlWCCName</key>
-			<string>Git</string>
+			<string>Pout%20Parse%20Test</string>
 		</dict>
 	</array>
 </dict>
