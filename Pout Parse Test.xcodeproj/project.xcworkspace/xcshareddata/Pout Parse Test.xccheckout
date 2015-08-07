@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D3BDC630-8C1F-45DC-8B60-D840D573C026</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Pout Parse Test</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2D0D6BECC2814F1C8BD4F30975D408430C78D6C2</key>
+		<string>https://bitbucket.org/laura_vsmith/android_app.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Pout Parse Test/Pout Parse Test.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2D0D6BECC2814F1C8BD4F30975D408430C78D6C2</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/laura_vsmith/android_app.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2D0D6BECC2814F1C8BD4F30975D408430C78D6C2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2D0D6BECC2814F1C8BD4F30975D408430C78D6C2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Git</string>
+		</dict>
+	</array>
+</dict>
+</plist>
